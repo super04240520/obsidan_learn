@@ -1,3 +1,9 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-auto-link-title",
+  "tag-summary-plugin",
+  "highlightr-plugin",
+  "vault-explorer",
+  "obsidian-export-image",
+  "obsidian-list-callouts"
 ]
