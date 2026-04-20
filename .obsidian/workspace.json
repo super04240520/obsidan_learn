@@ -45,8 +45,7 @@
               "title": "版本说明 1.11.7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +206,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dad9553ce98a16a6",
+  "active": "809169a21fa5e3e6",
   "lastOpenFiles": [
     "README.md",
     "2025-11-27.md",
