@@ -22,6 +22,46 @@
             }
           },
           {
+            "id": "ee4f5f1d331aa8d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
+            }
+          },
+          {
+            "id": "90ccc202adeb6a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "miniprogram/gitee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gitee"
+            }
+          },
+          {
+            "id": "2e8a3bb1dbea74d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/go.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "go"
+            }
+          },
+          {
             "id": "abaf5e47f894d28d",
             "type": "leaf",
             "state": {
@@ -45,7 +85,8 @@
               "title": "版本说明 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "go/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "go 的反向链接列表"
             }
           },
           {
@@ -185,13 +227,22 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ec7cccebc756bd08",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +257,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "809169a21fa5e3e6",
+  "active": "51b093f12aeada0d",
   "lastOpenFiles": [
+    "img/Pasted image 20260420222457.png",
+    "未命名 1.base",
+    "img",
+    "go/go.md",
+    "未命名 1.md",
+    "miniprogram/gitee.md",
+    "go",
+    "miniprogram",
     "README.md",
     "2025-11-27.md",
     "py/day1.md",
@@ -219,10 +278,7 @@
     "py",
     "未命名 2.base",
     "未命名 1.canvas",
-    "未命名 1.base",
     "未命名 2.canvas",
-    "未命名 3.base",
-    "未命名.canvas",
-    "未命名.base"
+    "未命名.canvas"
   ]
 }
