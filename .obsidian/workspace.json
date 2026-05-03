@@ -84,9 +84,21 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.11.7"
             }
+          },
+          {
+            "id": "aafce67992ad1472",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "go 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -257,7 +268,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51b093f12aeada0d",
+  "active": "aafce67992ad1472",
   "lastOpenFiles": [
     "img/Pasted image 20260420222457.png",
     "未命名 1.base",
